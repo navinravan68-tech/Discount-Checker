@@ -1,6 +1,4 @@
 # Customer_Discount_Checker
-Python program to check discount eligibility
-# Customer_Discount_Checker
 
 A simple Python program that checks whether a customer is eligible for a discount based on their age.
 
